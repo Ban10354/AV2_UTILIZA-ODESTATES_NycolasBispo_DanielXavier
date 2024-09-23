@@ -1,0 +1,33 @@
+body {
+  background-color: pink;
+}
+
+.largura320 {
+  width: 320px;
+}
+
+.altura240 {
+  height: 240px;
+}
+
+.outraclasse {
+  background-color: red;
+}
+body {
+  text-align: center;
+  margin-top: 50px;
+}
+.texto-azul {
+  color: blue;
+}
+
+.texto-branco {
+  color: white;
+}
+.texto-vermelho {
+  color: red;
+}
+
+.texto-verde {
+  color: green;
+}
